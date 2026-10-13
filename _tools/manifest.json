@@ -1,0 +1,625 @@
+[
+ {
+  "file": "okucnica/10210_1065_1692010565.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "vrt-odrina-pogled",
+  "alt": "Vrtni stol pod odrinom, travnjak i pogled na more"
+ },
+ {
+  "file": "okucnica/10210_1345_1778958113.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "vanjsko-ognjiste",
+  "alt": "Zidano vanjsko ognjište s roštiljem i sudoperom u dvorištu"
+ },
+ {
+  "file": "kuca/10210_1952_1692010519.jpg",
+  "category": "kuca",
+  "unit": null,
+  "slug": "kuca-oleandri",
+  "alt": "Bijela obiteljska kuća s crvenim krovom iza cvjetnih oleandara"
+ },
+ {
+  "file": "apartman-a2/10210_2384_1778958114.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-spavaci-kutak",
+  "alt": "Bračni krevet u spavaćem kutku apartmana A2"
+ },
+ {
+  "file": "kuhinja/10210_2631_1778958115.jpg",
+  "category": "kuhinja",
+  "unit": "a2",
+  "slug": "a2-kuhinja",
+  "alt": "Kuhinja s blagovaonskim stolom u apartmanu A2"
+ },
+ {
+  "file": "okucnica/10210_2703_1778958112.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "dvoriste-ulazi",
+  "alt": "Popločeno dvorište s ulazima u apartmane i vanjskim stubištem"
+ },
+ {
+  "file": "kuca/10210_3036_1692010518.jpg",
+  "category": "kuca",
+  "unit": null,
+  "slug": "kuca-ulica",
+  "alt": "Pročelje kuće pod vedrim nebom"
+ },
+ {
+  "file": "okucnica/10210_3149_1778958116.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "dvoriste-smokva",
+  "alt": "Dvorište u sjeni smokve ispred kuće"
+ },
+ {
+  "file": "kupaonica/10210_3848_1778958114.jpg",
+  "category": "kupaonica",
+  "unit": "a2",
+  "slug": "a2-kupaonica",
+  "alt": "Kupaonica apartmana A2 s perilicom rublja"
+ },
+ {
+  "file": "okucnica/10210_4010_1692010562.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "prolaz-uz-kucu",
+  "alt": "Mirni prolaz uz kuću sa stolom"
+ },
+ {
+  "file": "apartman-a2/10210_4738_1778958113.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-terasa-ulaz",
+  "alt": "Terasa sa stolom ispred ulaza u apartman A2"
+ },
+ {
+  "file": "kuhinja/10210_4957_1778958113.jpg",
+  "category": "kuhinja",
+  "unit": "a2",
+  "slug": "a2-kuhinja-terasa",
+  "alt": "Kuhinja apartmana A2 s vratima prema terasi"
+ },
+ {
+  "file": "apartman-a2/10210_5488_1778958112.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-boravak",
+  "alt": "Spavaći kutak i kauč u apartmanu A2"
+ },
+ {
+  "file": "apartman-a2/10210_5772_1778958114.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-terasa",
+  "alt": "Terasa apartmana A2 sa stolom i stolicama"
+ },
+ {
+  "file": "okucnica/10210_6451_1692010567.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "dvoriste-cvijece",
+  "alt": "Dvorište s cvijećem u posudama i stubištem prema katu"
+ },
+ {
+  "file": "apartman-a2/10210_6632_1778958112.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-krevet",
+  "alt": "Bračni krevet i kauč u apartmanu A2"
+ },
+ {
+  "file": "kupaonica/10210_8565_1778958115.jpg",
+  "category": "kupaonica",
+  "unit": "a2",
+  "slug": "a2-kupaonica-2",
+  "alt": "Kupaonica apartmana A2 s tušem"
+ },
+ {
+  "file": "apartman-a2/10210_8759_1778958115.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-soba-terasa",
+  "alt": "Soba apartmana A2 s izlazom na terasu"
+ },
+ {
+  "file": "apartman-a2/10210_8875_1778958113.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-tv-kauc",
+  "alt": "Kauč, televizor i ormar u apartmanu A2"
+ },
+ {
+  "file": "apartman-a2/10210_9032_1778958112.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-soba",
+  "alt": "Uredno pospremljena soba apartmana A2"
+ },
+ {
+  "file": "apartman-a2plus1/10211_1014_1778959491.jpg",
+  "category": "apartman-a2plus1",
+  "unit": "a2plus1",
+  "slug": "a2p1-spavaca-balkon",
+  "alt": "Spavaća soba apartmana A2+1 s izlazom na balkon i pogledom na more"
+ },
+ {
+  "file": "pogled/10211_1435_1778958986.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-otocic",
+  "alt": "Pogled kroz krošnju cedra na otočić s kapelicom i mirno more"
+ },
+ {
+  "file": "kuca/10211_1934_1778959275.jpg",
+  "category": "kuca",
+  "unit": null,
+  "slug": "kuca-cijela",
+  "alt": "Cijela kuća s vanjskim kamenim stubištem i balkonima"
+ },
+ {
+  "file": "apartman-a2plus1/10211_2015_1778959492.jpg",
+  "category": "apartman-a2plus1",
+  "unit": "a2plus1",
+  "slug": "a2p1-boravak",
+  "alt": "Dnevni boravak s blagovaonicom u apartmanu A2+1"
+ },
+ {
+  "file": "pogled/10211_3657_1778958989.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-balkon-kuce",
+  "alt": "Balkon s pogledom na krovove i more"
+ },
+ {
+  "file": "okolica/10211_3790_1692011697.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-plaza-setnica",
+  "alt": "Šljunčana plaža uz šetnicu u Novom Vinodolskom"
+ },
+ {
+  "file": "pogled/10211_4113_1778958984.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-balkon-hero",
+  "alt": "Pogled s natkrivenog balkona na Kvarner i otok Krk"
+ },
+ {
+  "file": "apartman-a2plus1/10211_4702_1778959491.jpg",
+  "category": "apartman-a2plus1",
+  "unit": "a2plus1",
+  "slug": "a2p1-blagovaonica",
+  "alt": "Blagovaonski stol i kuhinjski kutak u apartmanu A2+1"
+ },
+ {
+  "file": "pogled/10211_4746_1778959373.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-balkon-more",
+  "alt": "Balkon s pogledom na more i čempres"
+ },
+ {
+  "file": "apartman-a2plus1/10211_4959_1778959492.jpg",
+  "category": "apartman-a2plus1",
+  "unit": "a2plus1",
+  "slug": "a2p1-spavaca",
+  "alt": "Bračni krevet u spavaćoj sobi apartmana A2+1"
+ },
+ {
+  "file": "pogled/10211_5148_1778958985.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-otocic-2",
+  "alt": "Pogled na otočić s kapelicom iznad crvenih krovova"
+ },
+ {
+  "file": "okolica/10211_5280_1692011685.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-plaza-valovi",
+  "alt": "Šljunčana plaža i bistro more"
+ },
+ {
+  "file": "pogled/10211_5720_1778958990.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-krk",
+  "alt": "Pogled na more i otok Krk iznad krošnji"
+ },
+ {
+  "file": "kuhinja/10211_6267_1778959491.jpg",
+  "category": "kuhinja",
+  "unit": "a2plus1",
+  "slug": "a2p1-kuhinja",
+  "alt": "Kuhinja s plinskim kuhalom u apartmanu A2+1"
+ },
+ {
+  "file": "pogled/10211_6303_1778959372.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-balkon-stol",
+  "alt": "Balkonski stol s pogledom na more"
+ },
+ {
+  "file": "kuca/10211_6720_1692012078.jpg",
+  "category": "kuca",
+  "unit": null,
+  "slug": "kuca-brijeg",
+  "alt": "Kuća na padini s pogledom na more"
+ },
+ {
+  "file": "apartman-a2plus1/10211_6802_1778959491.jpg",
+  "category": "apartman-a2plus1",
+  "unit": "a2plus1",
+  "slug": "a2p1-dnevni",
+  "alt": "Svijetli dnevni boravak apartmana A2+1"
+ },
+ {
+  "file": "pogled/10211_7740_1778958988.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-balkon-siroki",
+  "alt": "Široki pogled s balkona na Kvarner"
+ },
+ {
+  "file": "apartman-a2plus1/10211_8795_1778959492.jpg",
+  "category": "apartman-a2plus1",
+  "unit": "a2plus1",
+  "slug": "a2p1-dnevni-2",
+  "alt": "Kauč i blagovaonski stol u apartmanu A2+1"
+ },
+ {
+  "file": "apartman-a2plus1/10211_9176_1778959373.jpg",
+  "category": "apartman-a2plus1",
+  "unit": "a2plus1",
+  "slug": "a2p1-balkon-ulaz",
+  "alt": "Izlaz iz apartmana A2+1 na balkon"
+ },
+ {
+  "file": "apartman-a2plus1/10211_9419_1778959490.jpg",
+  "category": "apartman-a2plus1",
+  "unit": "a2plus1",
+  "slug": "a2p1-spavaca-2",
+  "alt": "Spavaća soba apartmana A2+1"
+ },
+ {
+  "file": "kuhinja/10212_1043_1778958777.jpg",
+  "category": "kuhinja",
+  "unit": "a4",
+  "slug": "a4-kuhinja-boravak",
+  "alt": "Kuhinja, blagovaonica i dnevni boravak apartmana A4+1"
+ },
+ {
+  "file": "apartman-a4/10212_1351_1778958782.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa-pergola",
+  "alt": "Natkrivena terasa apartmana A4+1 s vrtnom garniturom"
+ },
+ {
+  "file": "kuhinja/10212_2117_1778958777.jpg",
+  "category": "kuhinja",
+  "unit": "a4",
+  "slug": "a4-blagovaonica",
+  "alt": "Blagovaonski stol i kuhinja u apartmanu A4+1"
+ },
+ {
+  "file": "apartman-a4/10212_2786_1778958783.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-spavaca",
+  "alt": "Spavaća soba apartmana A4+1"
+ },
+ {
+  "file": "kupaonica/10212_2851_1778958776.jpg",
+  "category": "kupaonica",
+  "unit": "a4",
+  "slug": "a4-kupaonica",
+  "alt": "Kupaonica apartmana A4+1 s tušem i perilicom rublja"
+ },
+ {
+  "file": "pogled/10212_3012_1778958778.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-oleandri",
+  "alt": "Pogled preko oleandara na more"
+ },
+ {
+  "file": "okucnica/10212_3263_1778958778.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "kamene-stube",
+  "alt": "Kamene stube kroz vrt s maslinama"
+ },
+ {
+  "file": "okucnica/10212_3295_1778958778.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "limun",
+  "alt": "Stablo limuna u vrtu"
+ },
+ {
+  "file": "kuhinja/10212_3597_1778958782.jpg",
+  "category": "kuhinja",
+  "unit": "a4",
+  "slug": "a4-kuhinja",
+  "alt": "Kuhinja s blagovaonicom u apartmanu A4+1"
+ },
+ {
+  "file": "apartman-a4/10212_3982_1778958778.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa-lezaljka",
+  "alt": "Terasa apartmana A4+1 s ležaljkom i stolom"
+ },
+ {
+  "file": "apartman-a4/10212_4452_1778958783.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa-zelenilo",
+  "alt": "Natkrivena terasa okružena zelenilom"
+ },
+ {
+  "file": "apartman-a4/10212_4873_1778958776.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-spavaca-2",
+  "alt": "Spavaća soba apartmana A4+1 s ormarom"
+ },
+ {
+  "file": "kupaonica/10212_5185_1778958782.jpg",
+  "category": "kupaonica",
+  "unit": "a4",
+  "slug": "a4-kupaonica-2",
+  "alt": "Kupaonica apartmana A4+1"
+ },
+ {
+  "file": "kuhinja/10212_5550_1778958781.jpg",
+  "category": "kuhinja",
+  "unit": "a4",
+  "slug": "a4-kuhinja-2",
+  "alt": "Prostrana kuhinja i blagovaonica apartmana A4+1"
+ },
+ {
+  "file": "apartman-a4/10212_5813_1778958777.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-spavaca-balkon",
+  "alt": "Spavaća soba apartmana A4+1 s izlazom na balkon"
+ },
+ {
+  "file": "apartman-a4/10212_6098_1778958777.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa",
+  "alt": "Terasa apartmana A4+1 s vrtnim stolom"
+ },
+ {
+  "file": "apartman-a4/10212_6988_1778958779.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa-limun",
+  "alt": "Terasa apartmana A4+1 s limunom u posudi"
+ },
+ {
+  "file": "okucnica/10212_7188_1692010699.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "vrt-cvijece-pogled",
+  "alt": "Narančasto cvijeće u vrtu i pogled na more"
+ },
+ {
+  "file": "apartman-a4/10212_8176_1778958779.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-dnevni",
+  "alt": "Dnevni boravak apartmana A4+1 s televizorom"
+ },
+ {
+  "file": "apartman-a4/10212_8251_1778958782.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa-2",
+  "alt": "Natkrivena terasa apartmana A4+1"
+ },
+ {
+  "file": "okucnica/10212_8465_1778958783.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "natkriveni-kutak",
+  "alt": "Natkriveni kutak uz kameni zid"
+ },
+ {
+  "file": "pogled/10212_9356_1778958784.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-balkon-cvijece",
+  "alt": "Balkon s cvijećem i pogledom na more"
+ },
+ {
+  "file": "kuhinja/10212_9395_1778958783.jpg",
+  "category": "kuhinja",
+  "unit": "a4",
+  "slug": "a4-kuhinja-3",
+  "alt": "Kuhinja i blagovaonica apartmana A4+1"
+ },
+ {
+  "file": "okucnica/4418_5267_1692011311.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "ulaz-odrina",
+  "alt": "Ulaz u prizemlje ispod odrine"
+ },
+ {
+  "file": "okucnica/4418_5375_1692011339.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "ljetna-kuhinja",
+  "alt": "Vanjsko ognjište i stubište prema katu"
+ },
+ {
+  "file": "kuca/4418_6333_1687717390.jpg",
+  "category": "kuca",
+  "unit": null,
+  "slug": "prilaz-parking",
+  "alt": "Prilaz kući i parkiralište u dvorištu"
+ },
+ {
+  "file": "okucnica/4418_6625_1625838575.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "vrt-pogled",
+  "alt": "Vrt s cvijećem i pogledom na more"
+ },
+ {
+  "file": "okucnica/4418_6746_1625838652.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "dvoriste-rostilj",
+  "alt": "Dvorište s travnjakom, roštiljem i stubištem"
+ },
+ {
+  "file": "okucnica/4418_7340_1692011322.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "vrt-stube",
+  "alt": "Kamene stube kroz zeleni vrt"
+ },
+ {
+  "file": "kuca/4418_8104_1692011343.jpg",
+  "category": "kuca",
+  "unit": null,
+  "slug": "kuca-vrt",
+  "alt": "Kuća iznad terasastog vrta"
+ },
+ {
+  "file": "okucnica/4418_8212_1692011346.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "odrina-stol",
+  "alt": "Stol pod odrinom s pogledom na more"
+ },
+ {
+  "file": "okucnica/4418_8789_1692011341.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "dvoriste-parking",
+  "alt": "Dvorište s cvijećem i parkiralištem"
+ },
+ {
+  "file": "okolica/Ivo_14ac6ba9988c.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-igraliste",
+  "alt": "Dječje igralište uz plažu"
+ },
+ {
+  "file": "okolica/Ivo_172ee2a073a2.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-setnica-grad",
+  "alt": "Šetnica uz more s pogledom na grad"
+ },
+ {
+  "file": "okolica/Ivo_1eba134f8339.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-grad-s-mora",
+  "alt": "Novi Vinodolski gledan s mora"
+ },
+ {
+  "file": "okolica/Ivo_418a08b94918.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-stjenovita-plaza",
+  "alt": "Stjenovita plaža i bistro more"
+ },
+ {
+  "file": "okolica/Ivo_49f41904ae78.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-otocic",
+  "alt": "Otočić s kapelicom ispred obale"
+ },
+ {
+  "file": "okolica/Ivo_54262f6b88b1.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-vidikovac",
+  "alt": "Vidikovac iznad Vinodolske doline"
+ },
+ {
+  "file": "okolica/Ivo_6c34858aa905.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-obala",
+  "alt": "Kamenita obala i šljunak"
+ },
+ {
+  "file": "okolica/Ivo_6dc7a4ec2414.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-mol",
+  "alt": "Mol u predvečerje"
+ },
+ {
+  "file": "okolica/Ivo_874382072523.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-tenis",
+  "alt": "Teniski tereni u borovoj šumi"
+ },
+ {
+  "file": "okolica/Ivo_b9d9eb772280.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-gradska-plaza",
+  "alt": "Gradska plaža sa šetnicom"
+ },
+ {
+  "file": "okolica/Ivo_cd54db416cf2.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-bistro-more",
+  "alt": "Bistro more uz stjenovitu obalu"
+ },
+ {
+  "file": "okolica/Ivo_e16b715340c1.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-setnica",
+  "alt": "Kamena šetnica uz more"
+ },
+ {
+  "file": "okolica/Ivo_fdfecb07afa9.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-park",
+  "alt": "Park uz more u hladu stabala"
+ },
+ {
+  "file": "tlocrt/ivo_10211tlocrt2_2.jpg",
+  "category": "tlocrt",
+  "unit": "a2plus1",
+  "slug": "tlocrt-a2plus1",
+  "alt": "Tlocrt apartmana A2+1"
+ },
+ {
+  "file": "tlocrt/ivo_10212tlocrt4_2.jpg",
+  "category": "tlocrt",
+  "unit": "a4",
+  "slug": "tlocrt-a4",
+  "alt": "Tlocrt apartmana A4+1"
+ },
+ {
+  "file": "okolica/ivo_4418rivicaipark.jpg",
+  "category": "okolica",
+  "unit": null,
+  "slug": "okolica-rivica-park",
+  "alt": "Rivica i park uz more"
+ }
+]

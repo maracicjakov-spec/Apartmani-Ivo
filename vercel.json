@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    { "source": "/images/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] },
+    { "source": "/main.js", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }] },
+    { "source": "/favicon.svg", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }] }
+  ]
+}

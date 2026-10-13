@@ -1,0 +1,90 @@
+{
+  "_izvor": "https://www.apartmanija.hr/apartmani/novi-vinodolski/apartmani-ivo/4418",
+  "_preuzeto": "2026-10-13",
+  "naziv": "Apartmani Ivo",
+  "oglasivac": { "ime": "Štefka Jovanović", "oglasivac_od": 2010, "govori": ["Hrvatski"], "pozdrav": "Srdačan pozdrav svim potencijalnim gostima u našem gradu. Nadam se da će te odabrati jedan od naših apartmana i na kraju biti zadovoljni odabirom." },
+  "adresa": { "ulica": "Osap 22a", "postanski_broj": "51250", "grad": "Novi Vinodolski", "regija": "Kvarner i gorje", "drzava": "Hrvatska" },
+  "geo": { "lat": 45.126048, "lng": 14.798517 },
+  "kontakt": { "mobitel": "+385 95 866 8430", "mobitel_whatsapp": "https://wa.me/385958668430", "fiksni_na_oglasu": "+51245220", "fiksni_normaliziran": "+385 51 245 220", "email": null },
+  "oglas": { "aktivan_od": "2010-08-13", "pregleda": 203402 },
+  "ocjena": { "prosjek_prikazan": "5 / 5", "opis": "Odlično!", "broj_komentara": 13, "izvor": "Apartmanija.hr" },
+  "opis": "Samostojeća obiteljska kuća s pogledom na more i zelenilom okućnice u mirnom predjelu grada. U kući živi vlasnik. Apartmani su kompletno opremljeni. Smješteni treći red do mora, 5 minuta hoda malo nizbrdo, 10 minuta hoda do centra. Odličan pristup vozilom, parking u krugu okućnice. Svaki apartman ima zaseban ulaz, balkon ili terasu i vrtnu garnituru. Navedene cijene nisu fiksne. Ovisne su o periodu u sezoni, broju osoba u apartmanu i dužini boravka u apartmanu.",
+  "dobrodoslica": "Dobro došli u naš smještaj. Kod dolaska će mo vas poslužiti kavom ili sokom. Dati vam prospekte o zbivanjima u našem gradu. Mogućim izletima i zabavama u blizini. Volimo da nam se pridružite u jutarnjim satima na terasi uz kavu ili večernjim uz koju čašicu pića. Slobodno se iz vrta poslužite peršinom ako ga ima.",
+  "okolica_opis": "Predivna razvedena obala sa raznolikim plažama i čistim morem će vas oduševiti. Na glavnoj plaži je ronilački klub i škola ronjenja. Iznajmljivanje barki i pedolina, balon za letenje, skijanje na vodi, tenis tereni, mini golf, odbojka na pijesku, dječji park. Puno manjih restorana za jelo i piće po pristupačnim cijenama uzduž gradskog parka uz more i u centru. U zaleđu su uređene biciklističke staze, vidikovci i stara povijesna naselja",
+  "placanje_i_napomene": {
+    "tekst": "Akontacija na žiro račun 30 % za rezervaciju a ostatak plaćanja po dolasku. Idealno trajanje boravka je minimum 7 dana. Manje od 3 noći nadoplata je 30 %. Boravak duži od 10 noći je 10 % popusta. Za boravak duži od 30 noći popust po dogovoru. Idealno vrijeme dolaska je u 14 sati a odlaska u 10 sati. Stalni dobri gosti imaju popust po dogovoru.",
+    "turisticka_pristojba": "uključena u cijenu",
+    "dolazak": "14:00", "odlazak": "10:00", "akontacija": "30 %"
+  },
+  "cijene_na_oglasu_ne_prikazivati": { "napomena": "Nedosljedne – na stranici se koristi 'Cijena na upit'", "od_po_nocenju_eur": { "A2": 40, "A2+1": 50, "A4+1": 70 } },
+  "udaljenosti": [
+    { "naziv": "More", "m": 400 }, { "naziv": "Plaža", "m": 400 }, { "naziv": "Centar", "m": 600 },
+    { "naziv": "Trgovina", "m": 200 }, { "naziv": "Restoran", "m": 400 }, { "naziv": "Doktor", "m": 500 },
+    { "naziv": "Ljekarna", "m": 500 }, { "naziv": "Banka", "m": 500 }, { "naziv": "Pošta", "m": 400 },
+    { "naziv": "Benzinska crpka", "m": 500 }, { "naziv": "Autobusni kolodvor", "m": 500 },
+    { "naziv": "Marina", "m": 800 }, { "naziv": "Sportske aktivnosti", "m": 400 }
+  ],
+  "udaljenosti_sumnjive_ne_prikazivati": [
+    { "naziv": "Željeznički kolodvor", "na_oglasu": "450 km" },
+    { "naziv": "Zračna luka", "na_oglasu": "300 km" },
+    { "naziv": "Disco klub", "na_oglasu": "100 km" }
+  ],
+  "vrsta_plaze": ["Pješčana", "Šljunčana", "Betonska", "Stjenovita"],
+  "zanimljivosti_u_blizini": [
+    { "naziv": "Gradska plaža Lišanj", "udaljenost": "460 m" },
+    { "naziv": "Plaža Lopar", "udaljenost": "570 m" },
+    { "naziv": "Marina Mitan", "udaljenost": "880 m" },
+    { "naziv": "Marina Novi", "udaljenost": "970 m" },
+    { "naziv": "Plaža Škrpun", "udaljenost": "1,3 km" },
+    { "naziv": "Vidikovci Oči Vinodola", "udaljenost": "4,9 km" }
+  ],
+  "smjestajne_jedinice": [
+    {
+      "id": 10212, "oznaka": "A4+1", "opis": "Apartman za četiri osobe plus pomoćni ležaj", "m2": 70,
+      "kapacitet": "4 + 1", "kat": "nije navedeno na oglasu (prema briefu: kat)",
+      "tlocrt": "2 spavaće sobe, dnevni boravak s kuhinjom, balkon/terasa (iz tlocrta)",
+      "kreveti": "nije navedeno na oglasu",
+      "opremljenost": ["Internet/Wi-fi", "TV", "Satelitska TV", "Klima", "Grijanje", "Mikrovalna", "Hladnjak", "Kuhalo za vodu", "Radio", "Perilica rublja", "Perilica posuđa"],
+      "detalji": ["Pogled na more", "Kupaonica", "Kuhinja", "Dozvoljeno pušenje", "Terasa", "Grill", "Parking"],
+      "kucni_ljubimci": false
+    },
+    {
+      "id": 10211, "oznaka": "A2+1", "opis": "Apartman za dvije osobe plus pomoćni ležaj", "m2": 40,
+      "kapacitet": "2 + 1", "kat": "nije navedeno na oglasu (prema briefu: kat)",
+      "tlocrt": "1 spavaća soba, dnevni boravak s kuhinjom, kupaonica, balkon (iz tlocrta)",
+      "kreveti": "nije navedeno na oglasu",
+      "opremljenost": ["Internet/Wi-fi", "TV", "Satelitska TV", "Klima", "Grijanje", "Mikrovalna", "Hladnjak", "Kuhalo za vodu", "Perilica rublja"],
+      "detalji": ["Pogled na more", "Kupaonica", "Kuhinja", "Kućni ljubimci", "Terasa", "Grill", "Parking"],
+      "kucni_ljubimci": true
+    },
+    {
+      "id": 10210, "oznaka": "A2", "opis": "Apartman za dvije osobe", "m2": 30,
+      "kapacitet": "2", "kat": "nije navedeno na oglasu (prema briefu: prizemlje)",
+      "kreveti": "nije navedeno na oglasu",
+      "opremljenost": ["Internet/Wi-fi", "TV", "Satelitska TV", "Grijanje", "Mikrovalna", "Hladnjak", "Kuhalo za vodu", "Perilica rublja"],
+      "detalji": ["Pogled na more", "Kupaonica", "Kuhinja", "Kućni ljubimci", "Dozvoljeno pušenje", "Terasa", "Grill", "Parking", "Pristup invalidskim kolicima"],
+      "kucni_ljubimci": true,
+      "napomena": "Klima NIJE označena na oglasu, iako se na fotografijama vidi klima-uređaj"
+    }
+  ],
+  "recenzije": [
+    { "ime": "Maurizio i Morana", "ime_na_oglasu": ".", "mjesto": "Trst, Italija", "jedinica": "A4+1", "boravak": "Kolovoz 2025", "objavljeno": "2025-08-02", "ocjena": 5, "naslov": "Prekrasno", "tekst": "Stigli smo u 18:00 sati i gospođa Stefka nas je čekala na ulici. Htjela nam je ponuditi kavu, ali s obzirom na sat, odbili smo. Deset minuta kasnije stigla je s tanjurom punim svježih kriški lubenice. Stefka vas odmah opušta i, u nekoliko riječi, objašnjava sve što vam može zatrebati u besprijekorno čistom i funkcionalnom apartmanu. Kad sam se vratio kući, primio sam e-mail s pitanjem kako je prošlo moje putovanje... Nažalost, ostali smo samo 3 noći.", "napomena": "preveden s talijanskog (Apartmanija.hr)" },
+    { "ime": "Damir", "mjesto": "Novaki, Hrvatska", "jedinica": "A2+1", "boravak": "Kolovoz 2024", "objavljeno": "2024-09-29", "ocjena": 5, "naslov": "Toplo preporučamo", "tekst": "Ove godine prvi puta boravili u navedenom apartmanu i bili ugodno iznenađeni. Domaćini super, susretljivi, spremni za šalu uz kavicu kojom će vas ponuditi. Apartman lijep s divnim pogledom na more. Ukratko toplo preporučujemo." },
+    { "ime": "Skireta", "mjesto": "Glina, Hrvatska", "jedinica": "A2", "boravak": "Srpanj 2024", "objavljeno": "2024-09-29", "ocjena": 5, "naslov": "Ljeto", "tekst": "Gospoda je predivna. Sve je divno, cisto, uredno. Vidimo se sigurno na ljeto opet. Veliki pozdrav." },
+    { "ime": "Ane", "ime_na_oglasu": "ane", "mjesto": "Ogulin, Hrvatska", "jedinica": "Apartmani Ivo", "boravak": "Kolovoz 2023", "objavljeno": "2023-08-14", "ocjena": 5, "naslov": "Boravili od 08.08-13.08", "tekst": "Bili prvi puta i prezadovoljni, kako smještajem tako i domaćinima koji su super. Uslužni, uvijek spremni pomoći, nasmijani. Jutarnja kavica sa domaćinima je bila pod obavezno, a i večernja druženja su postala dio rituala. Vidimo se opet..." },
+    { "ime": "Dragica i Miljenko", "ime_na_oglasu": "Mi", "mjesto": "Velika Gorica, Hrvatska", "jedinica": "A4+1", "boravak": "Lipanj 2023", "objavljeno": "2023-07-09", "ocjena": 5, "naslov": "Mi", "tekst": "Već više godina pa i ove boravili smo kod gospođe Štefke. Vrlo je ljubazna i susretljiva. Uvijek je tu za svoje goste. Apartmani uvijek čisti bez prigovora. Jednom riječju, sve je super!" },
+    { "ime": "Sanja", "mjesto": "Vukovar, Hrvatska", "jedinica": "Apartmani Ivo", "boravak": "Lipanj 2023", "objavljeno": "2023-07-03", "ocjena": 5, "naslov": "Recenzija", "tekst": "Svaka pohvala gospođi Štefki koja je izuzetno susretljiva, uvijek na raspolaganju, topla i draga koja će Vas dočekati sa smiješkom i kavicom po želji, koja će otići na kolodvor po vas te Vas odvesti na isti, koja se brine jeste li sretno stigli kući. Ako želite toplu atmosferu, lijep pogled, mirno okruženje, šetnje do grada, volite kućne ljubimce, onda je ovo mjesto za Vas. Tople preporuke!" },
+    { "ime": "Ivan", "mjesto": "Herrenberg, Njemačka", "jedinica": "Apartmani Ivo", "boravak": "Rujan 2022", "objavljeno": "2022-09-16", "ocjena": 5, "naslov": "Preporuka", "tekst": "Preporuka svakako. Domacini odlicni, ljubazni, veseli! Gostoljubljivi! Sve je blizu apartmana, plaza je odlicna. Smjestan je super." },
+    { "ime": "Ivana i Veljo", "mjesto": "Oroslavje, Hrvatska", "jedinica": "A2+1", "boravak": "Kolovoz 2021", "objavljeno": "2021-09-12", "ocjena": 5, "naslov": "Odličan godišnji odmor", "tekst": "Već smo drugu godinu zaredom kod Štefke i ovaj smo puta oduševljeni, domaćini odlični i susretljivi. Proveli smo odličan godišnji odmor." },
+    { "ime": "Ivana i Veljo", "mjesto": "Oroslavje, Hrvatska", "jedinica": "A2+1", "boravak": "Rujan 2020", "objavljeno": "2020-09-09", "ocjena": 5, "naslov": "Odličan smještaj i domaćini", "tekst": "Samo riječi pohvale za smještaj i domaćine! Uživali smo u odmoru, nadamo se da se vidimo i sljedeće godine, ako će situacija to dopuštati." },
+    { "ime": "Simik", "mjesto": "Grubišno Polje", "mjesto_na_oglasu": "Grubišno Polje, Kokosovi Otoci", "jedinica": "A2+1", "boravak": "Kolovoz 2020", "objavljeno": "2020-08-26", "ocjena": 5, "naslov": "Mir i tišina", "tekst": "Apartman je odličan, sve je blizu i super je za osobe bez auta. Domaćini su komunikativni i jako dragi. Mir i tišina u bilo koje doba dana." },
+    { "ime": "Šefik i Asima", "ime_na_oglasu": "BRACO", "mjesto": "Mežica, Slovenija", "jedinica": "A2+1", "boravak": "Srpanj 2020", "objavljeno": "2020-07-20", "ocjena": 5, "naslov": "Odličan Apartman", "tekst": "Apartman odlican, čist i uredan. Domaćini fenomenalni, uvijek puni vedrine i šale. Preporuka za sve koji žele mir, a već sam 3 godine dopusta bio njihov gost. Hvala Vam Štefka za sve i vidimo se opet uskoro." },
+    { "ime": "Anyuu", "ime_na_oglasu": "anyuu", "mjesto": "Győr, Mađarska", "jedinica": "A4+1", "boravak": "Kolovoz 2019", "objavljeno": "2020-01-12", "ocjena": 5, "naslov": "Prvi obiteljski odmor", "tekst": "Puno hvala domaćinu što smo se sjajno proveli.", "napomena": "preveden s mađarskog (Apartmanija.hr)" },
+    { "ime": "Ivana i Miroslav", "mjesto": "Zagreb, Hrvatska", "jedinica": "Apartmani Ivo", "boravak": "Lipanj 2017", "objavljeno": "2017-06-30", "ocjena": 4, "naslov": "Odmor u Novom Vinodolskom", "tekst": "Objekt je čist i uredan. Domaćica je draga i uslužna, ali i nenametljiva. Iako su domaćini u istom objektu, osjećali smo se opušteno. Preporučujemo!" }
+  ],
+  "iz_briefa_nije_na_oglasu": [
+    "Kuća nosi ime po vlasničinom ocu Ivi",
+    "A4+1 i A2+1 na katu, A2 u prizemlju",
+    "Fiksni broj u formatu +385 51 245 220 (na oglasu piše +51245220)"
+  ]
+}

@@ -1,0 +1,6 @@
+# radne mape (ne idu u repo)
+_src/
+_qa/
+.playwright-mcp/
+node_modules/
+images/original/
