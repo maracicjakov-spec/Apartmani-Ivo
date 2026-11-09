@@ -1,6 +1,6 @@
 // Optimizacija: WebP (q78) + JPG fallback u širinama 640 / 1280 / 1920.
-// Originali s oglasa su najviše 1024 px široki, pa se NE povećavaju (osim heroja, vidi dolje):
-// za svaku sliku generiramo 640 i izvornu širinu (npr. 1024) umjesto 1280/1920.
+// Stare fotke s oglasa su najviše 1024 px pa se NE povećavaju: za njih 640 + izvorna širina.
+// Nove profesionalne fotke (2800–3000 px) dobivaju 640 / 1280 / 1920; hero još i 2560 za retina ekrane.
 const sharp = require('sharp'), fs = require('fs'), path = require('path');
 const SRC = '../images/original', OUT = '../images/optimized';
 const HERO = 'pogled-balkon-hero';
@@ -15,8 +15,7 @@ const manifest = JSON.parse(fs.readFileSync('manifest.json', 'utf8'));
     let widths = [640, 1280, 1920].filter(w => w <= width);
     if (width < 1280 && width > 640) widths.push(width);
     if (!widths.length) widths = [width];
-    // Hero: blago povećanje (lanczos3 + lagano izoštravanje) da full-bleed na desktopu ne bude mutan.
-    if (m.slug === HERO) widths = [640, width, 1600, 1920];
+    if (m.slug === HERO) widths = [640, 1280, 1920, 2560].filter(w => w <= width);
     widths = [...new Set(widths)].sort((a, b) => a - b);
     for (const w of widths) {
       const base = sharp(path.join(SRC, m.file)).rotate().resize({ width: w, kernel: 'lanczos3', withoutEnlargement: m.slug !== HERO });

@@ -30,6 +30,10 @@ Stranica prikazuje **samo podatke s oglasa na Apartmanija.hr** (preuzeto 13. 10.
 
 ## 4. Fotografije
 
+- [x] **9. 11. 2026.: nove profesionalne fotke od Štefke** (2 e-maila). A2 i A4+1 imaju potpuno nove galerije. Hero, otočić, dvorište, ognjište i natkriveni kutak zamijenjeni su originalima u punoj rezoluciji. Stare slike su sačuvane u mapi `stare slike/`, a stari originali u `images/original/_zamijenjeno`.
+- [ ] Za **A2+1** i **okolicu** nove fotke nisu stigle, pa su ostale stare.
+- [ ] E-mail za A4+1 navodi **dvije kupaonice**, a na fotkama su dvije različite. To rješava pitanje iz točke 2.
+
 - [ ] **Originali u punoj rezoluciji.** Oglas daje najviše 1024 px, pa su na velikim ekranima fotke malo mekane. Hero je blago povećan (1920 px) uz izoštravanje. Originali s fotoaparata ili mobitela bi to riješili.
 - [ ] Nedostaje: **kupaonica A2+1**, **pogled iz A2** (oglas tvrdi „pogled na more“ i za A2), **spavaća soba A4+1 s oba kreveta**, kuća u predvečerje ili zalazak (idealno za hero).
 - [ ] Fotografije okolice (gradska plaža, šetnica, vidikovac) su stare i malene (oko 600 px, oko 2010.). Nove fotke plaže Lišanj i šetnice bi puno podigle dojam.

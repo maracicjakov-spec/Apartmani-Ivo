@@ -12,19 +12,6 @@
   ]
  },
  {
-  "file": "okucnica/10210_1345_1778958113.jpg",
-  "category": "okucnica",
-  "unit": null,
-  "slug": "vanjsko-ognjiste",
-  "alt": "Zidano vanjsko ognjište s roštiljem i sudoperom u dvorištu",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
   "file": "kuca/10210_1952_1692010519.jpg",
   "category": "kuca",
   "unit": null,
@@ -34,45 +21,6 @@
   "h": 768,
   "widths": [
    576
-  ]
- },
- {
-  "file": "apartman-a2/10210_2384_1778958114.jpg",
-  "category": "apartman-a2",
-  "unit": "a2",
-  "slug": "a2-spavaci-kutak",
-  "alt": "Bračni krevet u spavaćem kutku apartmana A2",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kuhinja/10210_2631_1778958115.jpg",
-  "category": "kuhinja",
-  "unit": "a2",
-  "slug": "a2-kuhinja",
-  "alt": "Kuhinja s blagovaonskim stolom u apartmanu A2",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "okucnica/10210_2703_1778958112.jpg",
-  "category": "okucnica",
-  "unit": null,
-  "slug": "dvoriste-ulazi",
-  "alt": "Popločeno dvorište s ulazima u apartmane i vanjskim stubištem",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
   ]
  },
  {
@@ -88,32 +36,6 @@
   ]
  },
  {
-  "file": "okucnica/10210_3149_1778958116.jpg",
-  "category": "okucnica",
-  "unit": null,
-  "slug": "dvoriste-smokva",
-  "alt": "Dvorište u sjeni smokve ispred kuće",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kupaonica/10210_3848_1778958114.jpg",
-  "category": "kupaonica",
-  "unit": "a2",
-  "slug": "a2-kupaonica",
-  "alt": "Kupaonica apartmana A2 s perilicom rublja",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
   "file": "okucnica/10210_4010_1692010562.jpg",
   "category": "okucnica",
   "unit": null,
@@ -123,58 +45,6 @@
   "h": 768,
   "widths": [
    576
-  ]
- },
- {
-  "file": "apartman-a2/10210_4738_1778958113.jpg",
-  "category": "apartman-a2",
-  "unit": "a2",
-  "slug": "a2-terasa-ulaz",
-  "alt": "Terasa sa stolom ispred ulaza u apartman A2",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kuhinja/10210_4957_1778958113.jpg",
-  "category": "kuhinja",
-  "unit": "a2",
-  "slug": "a2-kuhinja-terasa",
-  "alt": "Kuhinja apartmana A2 s vratima prema terasi",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a2/10210_5488_1778958112.jpg",
-  "category": "apartman-a2",
-  "unit": "a2",
-  "slug": "a2-boravak",
-  "alt": "Spavaći kutak i kauč u apartmanu A2",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a2/10210_5772_1778958114.jpg",
-  "category": "apartman-a2",
-  "unit": "a2",
-  "slug": "a2-terasa",
-  "alt": "Terasa apartmana A2 sa stolom i stolicama",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
   ]
  },
  {
@@ -190,89 +60,11 @@
   ]
  },
  {
-  "file": "apartman-a2/10210_6632_1778958112.jpg",
-  "category": "apartman-a2",
-  "unit": "a2",
-  "slug": "a2-krevet",
-  "alt": "Bračni krevet i kauč u apartmanu A2",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kupaonica/10210_8565_1778958115.jpg",
-  "category": "kupaonica",
-  "unit": "a2",
-  "slug": "a2-kupaonica-2",
-  "alt": "Kupaonica apartmana A2 s tušem",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a2/10210_8759_1778958115.jpg",
-  "category": "apartman-a2",
-  "unit": "a2",
-  "slug": "a2-soba-terasa",
-  "alt": "Soba apartmana A2 s izlazom na terasu",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a2/10210_8875_1778958113.jpg",
-  "category": "apartman-a2",
-  "unit": "a2",
-  "slug": "a2-tv-kauc",
-  "alt": "Kauč, televizor i ormar u apartmanu A2",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a2/10210_9032_1778958112.jpg",
-  "category": "apartman-a2",
-  "unit": "a2",
-  "slug": "a2-soba",
-  "alt": "Uredno pospremljena soba apartmana A2",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
   "file": "apartman-a2plus1/10211_1014_1778959491.jpg",
   "category": "apartman-a2plus1",
   "unit": "a2plus1",
   "slug": "a2p1-spavaca-balkon",
   "alt": "Spavaća soba apartmana A2+1 s izlazom na balkon i pogledom na more",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "pogled/10211_1435_1778958986.jpg",
-  "category": "pogled",
-  "unit": null,
-  "slug": "pogled-otocic",
-  "alt": "Pogled kroz krošnju cedra na otočić s kapelicom i mirno more",
   "w": 1024,
   "h": 682,
   "widths": [
@@ -330,21 +122,6 @@
   "widths": [
    640,
    1024
-  ]
- },
- {
-  "file": "pogled/10211_4113_1778958984.jpg",
-  "category": "pogled",
-  "unit": null,
-  "slug": "pogled-balkon-hero",
-  "alt": "Pogled s natkrivenog balkona na Kvarner i otok Krk",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024,
-   1600,
-   1920
   ]
  },
  {
@@ -477,19 +254,6 @@
   ]
  },
  {
-  "file": "pogled/10211_7740_1778958988.jpg",
-  "category": "pogled",
-  "unit": null,
-  "slug": "pogled-balkon-siroki",
-  "alt": "Široki pogled s balkona na Kvarner",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
   "file": "apartman-a2plus1/10211_8795_1778959492.jpg",
   "category": "apartman-a2plus1",
   "unit": "a2plus1",
@@ -521,71 +285,6 @@
   "unit": "a2plus1",
   "slug": "a2p1-spavaca-2",
   "alt": "Spavaća soba apartmana A2+1",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kuhinja/10212_1043_1778958777.jpg",
-  "category": "kuhinja",
-  "unit": "a4",
-  "slug": "a4-kuhinja-boravak",
-  "alt": "Kuhinja, blagovaonica i dnevni boravak apartmana A4+1",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_1351_1778958782.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-terasa-pergola",
-  "alt": "Natkrivena terasa apartmana A4+1 s vrtnom garniturom",
-  "w": 1024,
-  "h": 681,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kuhinja/10212_2117_1778958777.jpg",
-  "category": "kuhinja",
-  "unit": "a4",
-  "slug": "a4-blagovaonica",
-  "alt": "Blagovaonski stol i kuhinja u apartmanu A4+1",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_2786_1778958783.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-spavaca",
-  "alt": "Spavaća soba apartmana A4+1",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kupaonica/10212_2851_1778958776.jpg",
-  "category": "kupaonica",
-  "unit": "a4",
-  "slug": "a4-kupaonica",
-  "alt": "Kupaonica apartmana A4+1 s tušem i perilicom rublja",
   "w": 1024,
   "h": 682,
   "widths": [
@@ -633,123 +332,6 @@
   ]
  },
  {
-  "file": "kuhinja/10212_3597_1778958782.jpg",
-  "category": "kuhinja",
-  "unit": "a4",
-  "slug": "a4-kuhinja",
-  "alt": "Kuhinja s blagovaonicom u apartmanu A4+1",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_3982_1778958778.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-terasa-lezaljka",
-  "alt": "Terasa apartmana A4+1 s ležaljkom i stolom",
-  "w": 1024,
-  "h": 681,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_4452_1778958783.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-terasa-zelenilo",
-  "alt": "Natkrivena terasa okružena zelenilom",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_4873_1778958776.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-spavaca-2",
-  "alt": "Spavaća soba apartmana A4+1 s ormarom",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kupaonica/10212_5185_1778958782.jpg",
-  "category": "kupaonica",
-  "unit": "a4",
-  "slug": "a4-kupaonica-2",
-  "alt": "Kupaonica apartmana A4+1",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kuhinja/10212_5550_1778958781.jpg",
-  "category": "kuhinja",
-  "unit": "a4",
-  "slug": "a4-kuhinja-2",
-  "alt": "Prostrana kuhinja i blagovaonica apartmana A4+1",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_5813_1778958777.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-spavaca-balkon",
-  "alt": "Spavaća soba apartmana A4+1 s izlazom na balkon",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_6098_1778958777.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-terasa",
-  "alt": "Terasa apartmana A4+1 s vrtnim stolom",
-  "w": 1024,
-  "h": 681,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_6988_1778958779.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-terasa-limun",
-  "alt": "Terasa apartmana A4+1 s limunom u posudi",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
   "file": "okucnica/10212_7188_1692010699.jpg",
   "category": "okucnica",
   "unit": null,
@@ -762,63 +344,11 @@
   ]
  },
  {
-  "file": "apartman-a4/10212_8176_1778958779.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-dnevni",
-  "alt": "Dnevni boravak apartmana A4+1 s televizorom",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "apartman-a4/10212_8251_1778958782.jpg",
-  "category": "apartman-a4",
-  "unit": "a4",
-  "slug": "a4-terasa-2",
-  "alt": "Natkrivena terasa apartmana A4+1",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "okucnica/10212_8465_1778958783.jpg",
-  "category": "okucnica",
-  "unit": null,
-  "slug": "natkriveni-kutak",
-  "alt": "Natkriveni kutak uz kameni zid",
-  "w": 1024,
-  "h": 683,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
   "file": "pogled/10212_9356_1778958784.jpg",
   "category": "pogled",
   "unit": null,
   "slug": "pogled-balkon-cvijece",
   "alt": "Balkon s cvijećem i pogledom na more",
-  "w": 1024,
-  "h": 682,
-  "widths": [
-   640,
-   1024
-  ]
- },
- {
-  "file": "kuhinja/10212_9395_1778958783.jpg",
-  "category": "kuhinja",
-  "unit": "a4",
-  "slug": "a4-kuhinja-3",
-  "alt": "Kuhinja i blagovaonica apartmana A4+1",
   "w": 1024,
   "h": 682,
   "widths": [
@@ -1126,6 +656,441 @@
   "h": 450,
   "widths": [
    600
+  ]
+ },
+ {
+  "file": "apartman-a2/B48A0047.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-soba-terasa",
+  "alt": "Soba apartmana A2 s bračnim krevetom, kaučem i izlazom na terasu",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a2/B48A0046.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-boravak",
+  "alt": "Bračni krevet, kauč i klima-uređaj u apartmanu A2",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a2/B48A0069.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-krevet",
+  "alt": "Bračni krevet, televizor i ormar u apartmanu A2",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a2/B48A0048.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-tv-kauc",
+  "alt": "Kauč, televizor i ormar u apartmanu A2",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kuhinja/B48A0076.jpg",
+  "category": "kuhinja",
+  "unit": "a2",
+  "slug": "a2-kuhinja-terasa",
+  "alt": "Kuhinja apartmana A2 s vratima prema terasi",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kuhinja/B48A0073.jpg",
+  "category": "kuhinja",
+  "unit": "a2",
+  "slug": "a2-kuhinja",
+  "alt": "Kuhinja s blagovaonskim stolom u apartmanu A2",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a2/B48A0080.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-terasa",
+  "alt": "Terasa apartmana A2 sa stolom i stolicama",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a2/B48A0072.jpg",
+  "category": "apartman-a2",
+  "unit": "a2",
+  "slug": "a2-terasa-ulaz",
+  "alt": "Terasa uz kameni zid ispred ulaza u apartman A2",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kupaonica/B48A0077.jpg",
+  "category": "kupaonica",
+  "unit": "a2",
+  "slug": "a2-kupaonica",
+  "alt": "Kupaonica apartmana A2 s tušem i perilicom rublja",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kupaonica/B48A2125.jpg",
+  "category": "kupaonica",
+  "unit": "a2",
+  "slug": "a2-kupaonica-2",
+  "alt": "Kupaonica apartmana A2",
+  "w": 3000,
+  "h": 2000,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "okucnica/B48A0081.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "vanjsko-ognjiste",
+  "alt": "Zidano vanjsko ognjište s roštiljem i sudoperom u dvorištu",
+  "w": 2800,
+  "h": 1866,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "okucnica/B48A0102.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "dvoriste-smokva",
+  "alt": "Dvorište u sjeni smokve ispred kuće",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "okucnica/B48A0103.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "dvoriste-ulazi",
+  "alt": "Popločeno dvorište s ulazima u apartmane i vanjskim stubištem",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A0012_3_4.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa-pergola",
+  "alt": "Natkrivena terasa apartmana A4+1 s ležaljkom i vrtnom garniturom",
+  "w": 2800,
+  "h": 1864,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "okucnica/B48A0015_6_7.jpg",
+  "category": "okucnica",
+  "unit": null,
+  "slug": "natkriveni-kutak",
+  "alt": "Natkriveni kutak uz kameni zid s izlazom na terasu",
+  "w": 2800,
+  "h": 1862,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "pogled/B48A0018.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-otocic",
+  "alt": "Pogled kroz krošnju cedra na otočić s kapelicom i mirno more",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kuhinja/B48A2176.jpg",
+  "category": "kuhinja",
+  "unit": "a4",
+  "slug": "a4-kuhinja-boravak",
+  "alt": "Kuhinja, blagovaonica i dnevni boravak apartmana A4+1",
+  "w": 3000,
+  "h": 2000,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kuhinja/B48A2188.jpg",
+  "category": "kuhinja",
+  "unit": "a4",
+  "slug": "a4-blagovaonica",
+  "alt": "Postavljen blagovaonski stol i kuhinja u apartmanu A4+1",
+  "w": 3000,
+  "h": 2000,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A2190.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-spavaca-kreveti",
+  "alt": "Spavaća soba apartmana A4+1 s krevetima i ormarom",
+  "w": 3000,
+  "h": 2000,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A2198.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-spavaca-3",
+  "alt": "Bračni krevet i pogled prema kupaonici i dnevnom boravku apartmana A4+1",
+  "w": 3000,
+  "h": 2000,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kuhinja/B48A9912.jpg",
+  "category": "kuhinja",
+  "unit": "a4",
+  "slug": "a4-kuhinja",
+  "alt": "Kuhinja s blagovaonicom i pogledom prema dnevnom boravku apartmana A4+1",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A9926.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-spavaca-balkon",
+  "alt": "Spavaća soba apartmana A4+1 s izlazom na balkon i pogledom na more",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A9927.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-spavaca",
+  "alt": "Spavaća soba apartmana A4+1 s bračnim krevetom",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A9957.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-spavaca-2",
+  "alt": "Druga spavaća soba apartmana A4+1",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A9968.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-dnevni",
+  "alt": "Dnevni boravak apartmana A4+1 s kaučima, televizorom i izlazom na balkon",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kupaonica/B48A9932.jpg",
+  "category": "kupaonica",
+  "unit": "a4",
+  "slug": "a4-kupaonica",
+  "alt": "Kupaonica apartmana A4+1 s tušem i perilicom rublja",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "kupaonica/B48A9956.jpg",
+  "category": "kupaonica",
+  "unit": "a4",
+  "slug": "a4-kupaonica-2",
+  "alt": "Druga kupaonica apartmana A4+1 s tuš-kabinom",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A9978_79_80.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa",
+  "alt": "Natkrivena terasa apartmana A4+1 s vrtnim stolom i maslinom",
+  "w": 2800,
+  "h": 1863,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "apartman-a4/B48A9984_5_6.jpg",
+  "category": "apartman-a4",
+  "unit": "a4",
+  "slug": "a4-terasa-zelenilo",
+  "alt": "Terasa apartmana A4+1 okružena zelenilom i limunom u posudi",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "file": "pogled/B48A9967.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-balkon-hero",
+  "alt": "Pogled s natkrivenog balkona na Kvarner i otok Krk",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ]
+ },
+ {
+  "file": "pogled/B48A9966.jpg",
+  "category": "pogled",
+  "unit": null,
+  "slug": "pogled-balkon-siroki",
+  "alt": "Široki pogled s balkona na Kvarner",
+  "w": 2800,
+  "h": 1867,
+  "widths": [
+   640,
+   1280,
+   1920
   ]
  }
 ]

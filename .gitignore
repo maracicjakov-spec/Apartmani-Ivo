@@ -4,3 +4,6 @@ _qa/
 .playwright-mcp/
 node_modules/
 images/original/
+
+# lokalna sigurnosna kopija starih fotografija
+stare slike/

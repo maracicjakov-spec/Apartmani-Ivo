@@ -22,21 +22,21 @@ const largest = slug => { const m = bySlug[slug]; return `${IMG}/${slug}-${Math.
 
 // --- Slideri apartmana (redoslijed: najjača fotka prva) ---
 const SLIDERS = {
-  'slider-a4': ['a4-terasa-pergola', 'a4-kuhinja-boravak', 'a4-dnevni', 'a4-spavaca-balkon', 'pogled-oleandri', 'a4-kuhinja-2',
-    'a4-spavaca', 'a4-terasa-lezaljka', 'a4-blagovaonica', 'a4-spavaca-2', 'a4-terasa-limun', 'a4-kuhinja', 'a4-terasa',
-    'a4-kupaonica', 'a4-terasa-zelenilo', 'a4-kuhinja-3', 'a4-terasa-2', 'a4-kupaonica-2', 'pogled-balkon-cvijece'],
+  'slider-a4': ['a4-terasa-pergola', 'a4-kuhinja-boravak', 'pogled-balkon-siroki', 'a4-dnevni', 'a4-spavaca-balkon', 'a4-terasa',
+    'a4-kuhinja', 'a4-spavaca', 'a4-blagovaonica', 'a4-spavaca-2', 'a4-terasa-zelenilo', 'a4-spavaca-kreveti', 'a4-kupaonica',
+    'a4-spavaca-3', 'a4-kupaonica-2', 'natkriveni-kutak'],
   'slider-a2plus1': ['a2p1-spavaca-balkon', 'pogled-balkon-more', 'a2p1-dnevni', 'a2p1-boravak', 'a2p1-spavaca', 'a2p1-blagovaonica',
     'a2p1-kuhinja', 'a2p1-balkon-ulaz', 'a2p1-dnevni-2', 'a2p1-spavaca-2', 'pogled-balkon-stol'],
-  'slider-a2': ['a2-soba-terasa', 'a2-boravak', 'a2-kuhinja-terasa', 'a2-terasa', 'a2-krevet', 'a2-spavaci-kutak', 'a2-kuhinja',
-    'a2-tv-kauc', 'a2-terasa-ulaz', 'a2-soba', 'a2-kupaonica', 'a2-kupaonica-2'],
+  'slider-a2': ['a2-soba-terasa', 'a2-boravak', 'a2-kuhinja-terasa', 'a2-terasa', 'a2-krevet', 'a2-kuhinja', 'a2-tv-kauc',
+    'a2-terasa-ulaz', 'a2-kupaonica', 'a2-kupaonica-2'],
 };
 const SIZES_SLIDER = '(min-width: 64em) 58vw, 100vw';
 
 // --- Galerija: kurirani redoslijed, filteri kuca / apartmani / okolica ---
 const filterOf = c => (['kuca', 'pogled', 'okucnica'].includes(c) ? 'kuca' : c === 'okolica' ? 'okolica' : 'apartmani');
-const LEAD = ['pogled-balkon-hero', 'kuca-cijela', 'a4-terasa-pergola', 'pogled-otocic', 'vrt-odrina-pogled', 'a2p1-spavaca-balkon',
-  'dvoriste-ulazi', 'pogled-krk', 'a4-kuhinja-boravak', 'vanjsko-ognjiste', 'limun', 'a2p1-dnevni', 'okolica-gradska-plaza',
-  'vrt-cvijece-pogled', 'a2-soba-terasa', 'pogled-balkon-siroki', 'kamene-stube', 'okolica-otocic'];
+const LEAD = ['pogled-balkon-hero', 'dvoriste-ulazi', 'a4-terasa-pergola', 'pogled-otocic', 'a4-kuhinja-boravak', 'kuca-cijela',
+  'a4-spavaca-balkon', 'a2-soba-terasa', 'a4-terasa-zelenilo', 'vanjsko-ognjiste', 'a4-dnevni', 'a2p1-spavaca-balkon',
+  'a2-kuhinja-terasa', 'pogled-balkon-siroki', 'a4-terasa', 'dvoriste-smokva', 'vrt-odrina-pogled', 'okolica-gradska-plaza'];
 const rest = M.filter(m => m.category !== 'tlocrt' && !LEAD.includes(m.slug))
   .sort((a, b) => ['kuca', 'apartmani', 'okolica'].indexOf(filterOf(a.category)) - ['kuca', 'apartmani', 'okolica'].indexOf(filterOf(b.category)));
 const GALLERY = [...LEAD.map(s => bySlug[s]), ...rest];
