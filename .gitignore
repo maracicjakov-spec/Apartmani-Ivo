@@ -7,3 +7,6 @@ images/original/
 
 # lokalna sigurnosna kopija starih fotografija
 stare slike/
+
+.vercel
+.env*
